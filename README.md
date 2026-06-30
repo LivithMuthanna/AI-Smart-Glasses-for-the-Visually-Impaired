@@ -2,7 +2,7 @@
 
 An AI-powered, offline assistive wearable that helps visually impaired individuals perceive their surroundings through **real-time object detection, face recognition, and text-to-speech reading** — built entirely on a **Raspberry Pi 5**.
 
-![Working Model](images/working_model.png)
+![Working Model](working_model.png)
 
 ---
 
@@ -70,12 +70,12 @@ USB Camera ──► Raspberry Pi 5 ──► AI/OCR Processing ──► Python
 
 <table>
 <tr>
-<td align="center"><img src="images/raspberry_pi5.png" width="380"/><br/><b>Raspberry Pi 5</b></td>
-<td align="center"><img src="images/usb_camera.png" width="220"/><br/><b>USB Camera (Zebronics)</b></td>
+<td align="center"><img src="raspberry_pi5.png" width="380"/><br/><b>Raspberry Pi 5</b></td>
+<td align="center"><img src="usb_camera.png" width="220"/><br/><b>USB Camera (Zebronics)</b></td>
 </tr>
 <tr>
-<td align="center"><img src="images/push_buttons.png" width="300"/><br/><b>4-Key Push Button Module</b></td>
-<td align="center"><img src="images/usb_audio_converter.png" width="300"/><br/><b>USB Audio Converter</b></td>
+<td align="center"><img src="push_buttons.png" width="300"/><br/><b>4-Key Push Button Module</b></td>
+<td align="center"><img src="usb_audio_converter.png" width="300"/><br/><b>USB Audio Converter</b></td>
 </tr>
 </table>
 
@@ -128,8 +128,8 @@ The system delivered near real-time performance with minimal latency, stable the
 
 <table>
 <tr>
-<td align="center"><img src="images/text_reading_output.png" width="420"/><br/><b>Text Reading (OCR) Output</b></td>
-<td align="center"><img src="images/face_recognition_output.png" width="420"/><br/><b>Face Recognition Output</b></td>
+<td align="center"><img src="text_reading_output.png" width="420"/><br/><b>Text Reading (OCR) Output</b></td>
+<td align="center"><img src="face_recognition_output.png" width="420"/><br/><b>Face Recognition Output</b></td>
 </tr>
 </table>
 
