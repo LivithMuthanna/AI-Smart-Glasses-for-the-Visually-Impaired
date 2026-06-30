@@ -2,7 +2,6 @@
 
 An AI-powered, offline assistive wearable that helps visually impaired individuals perceive their surroundings through **real-time object detection, face recognition, and text-to-speech reading** — built entirely on a **Raspberry Pi 5**.
 
-![Working Model](working_model.png)
 
 ---
 
