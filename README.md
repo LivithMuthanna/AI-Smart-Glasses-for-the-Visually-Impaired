@@ -174,20 +174,6 @@ The system delivered near real-time performance with minimal latency, stable the
 
 ---
 
-## 👥 Project Team
-
-| Name | USN |
-|---|---|
-| Kaveramma Inchara T D | 4CI22AD015 |
-| **Livith Muthanna M A** | 4CI22AD019 |
-| Myla Accamma T B | 4CI22AD023 |
-| Nikhil Madappa D G | 4CI22AD027 |
-
-**Guide:** Mr. Ramesh H R, HOD, Dept. of Artificial Intelligence & Data Science
-**Institution:** Coorg Institute of Technology, Ponnampet (Affiliated to VTU, Belagavi)
-
----
-
 ## 📚 References
 
 1. [Smart Glasses for Blind People Using Obstacle Detection — IEEE 2023](https://ieeexplore.ieee.org/document/9648186)
@@ -201,11 +187,3 @@ The system delivered near real-time performance with minimal latency, stable the
 9. [GPIO Zero Documentation](https://gpiozero.readthedocs.io)
 
 ---
-
-## 📄 License
-
-This project was developed for academic purposes as part of the B.E. curriculum at Coorg Institute of Technology (VTU). Feel free to fork and build upon it for educational or non-commercial use.
-
----
-
-⭐ If you find this project useful or interesting, consider giving it a star!
