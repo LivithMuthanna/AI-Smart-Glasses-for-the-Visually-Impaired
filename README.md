@@ -17,7 +17,7 @@ This project presents a **compact, low-cost, fully offline AI assistive device**
 
 All processing runs **locally on-device** — no internet connection or cloud dependency required, ensuring low latency and full user privacy.
 
-> 🎓 Final Year B.E. Project — Department of Artificial Intelligence & Data Science, Coorg Institute of Technology (VTU, Belagavi) — 2025–2026
+> 🎓 Final Year B.E. Project — Department of Artificial Intelligence & Data Science, Coorg Institute of Technology (VTU, Belagavi)
 
 ---
 
